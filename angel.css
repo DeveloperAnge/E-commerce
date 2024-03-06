@@ -1,0 +1,40 @@
+*{
+    background-color: rgb(233, 240, 233);
+}
+fieldset{
+    width: 20%;
+    height: 25rem;
+    margin-left: 30rem;
+    background-color: grey;
+    text-align: center;
+    font-weight: bolder;
+    border-radius: 20px;
+    text-decoration: dashed;
+}
+h1{
+background-color: orange;
+height: 50px;
+margin-top: -5px;
+border-radius: 20px 20px 0px 0px;
+}
+
+form{
+    text-align: center;
+  background-color: grey;
+  height: 20rem;
+
+}
+input{
+    color: blck(245, 245, 245);
+font-weight: bold;
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    border-radius: 10px;
+}
+button{
+    background-color: orangered;
+    height:5rem;
+    width: 5rem;
+
+}
